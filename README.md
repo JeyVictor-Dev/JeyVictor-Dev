@@ -1,7 +1,5 @@
 # Olá, eu sou Jey Victor👋 , Estudante de Análise e Desenvolvimento de Sistemas💻!
 
-<h2 align="left">About Me</h2>
-
 ###
 
 <p align="left">- Estou aprendendo sobre algoritmos, estruturas de dados e TypeScript, mergulhando na lógica por trás dos sistemas que utilizamos no dia a dia.<br><br>- Estou estudando na Onebitcode o curso Fullstack JavaScript.<br><br>- Participando de projetos e hackathons em equipe, onde posso aplicar meus conhecimentos e aprender com colegas mais experientes.<br><br>- Sou embaixador da <a href="https://web.dio.me/home" target="_blank" >DIO</a>.</p>
